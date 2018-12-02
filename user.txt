@@ -1,0 +1,4 @@
+user : algrah
+password : 00001234
+
+database : 00001234 or 123
